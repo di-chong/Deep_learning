@@ -16,7 +16,7 @@
 
 #### 2.怎么理解并牢记LSTM的网络架构
 
-![1763795691615](C:\Users\houliang wang\AppData\Roaming\Typora\typora-user-images\1763795691615.png)
+![picture](picture/5.png)
 
 第一眼你是不是很困惑为什么这么设计，非要从数学角度去推导吗？
 
@@ -37,4 +37,10 @@ forget gate：考英语（物理）时需要记住上一轮数学考试的知识
 input gate: 本轮考试需要对整本书进行记忆吗？是不是进行考点记忆好点呢？
 
 output gate: 你对上一轮的记忆+本轮的记忆在该场考试中能得多少分呢，你全部记住一定得满分吗？
+![picture](picture/1.png)
+![picture](picture/2.png)
+![picture](picture/3.png)
+![picture](picture/4.png)
+
+个人录制了视频怎么从三个门控推出网络结构且不易遗忘：https://www.bilibili.com/video/BV1oWUsBXEXh/?spm_id_from=333.1387.list.card_archive.click
 
