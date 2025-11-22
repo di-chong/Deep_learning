@@ -8,13 +8,13 @@
 
 
 
-![1763741899755](C:\Users\houliang wang\AppData\Roaming\Typora\typora-user-images\1763741899755.png)
+![image](picture/1.png)
 
 
 
 #### 2.进入 **「JupyterLab」** 页面
 
-![1763748223606](C:\Users\houliang wang\AppData\Roaming\Typora\typora-user-images\1763748223606.png)
+![image](picture/2.png)
 
 
 
@@ -24,7 +24,7 @@
 unzip xxx.zip
 ```
 
-![1763748365381](C:\Users\houliang wang\AppData\Roaming\Typora\typora-user-images\1763748365381.png)
+![image](picture/3.png)
 
 #### 4.在 JupyterLab 里新建 Terminal
 
@@ -51,12 +51,13 @@ nohup python main.py \
 
   > 
 
-![1763747788638](C:\Users\houliang wang\AppData\Roaming\Typora\typora-user-images\1763747788638.png)
+![image](picture/4.png)
 
-![1763747995849](C:\Users\houliang wang\AppData\Roaming\Typora\typora-user-images\1763747995849.png)
+![image](picture/5.png)
 
 日志观察训练：tail -f run.log
 
-![1763748052038](C:\Users\houliang wang\AppData\Roaming\Typora\typora-user-images\1763748052038.png)
+![image](picture/6.png)
+
 
 之后就可以退出了，训练完关闭云端实例即可
